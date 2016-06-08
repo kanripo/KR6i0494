@@ -1,12 +1,12 @@
 # -*- mode: mandoku-view; -*-
-#+DATE: 2016-06-08 9:45
+#+DATE: 2016-06-08 9:46
 #+TITLE: 佛說孛經抄
 #+PROPERTY: CBETA_ID T17n0790
 #+PROPERTY: ID KR6i0494
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 17, No. 790
 #+PROPERTY: VOL 17
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS master
+#+PROPERTY: WITNESS T@QISHA
 #+PROPERTY: LASTPB <pb:KR6i0494_T_001-0729a> 
 #+PROPERTY: JUAN 1
 ¶
@@ -599,7 +599,7 @@ No. 790¶
 無常處。道貴清虛，不宜人間。如野火行，傍¶
 樹為焦；激水破船；毒虫害人。與智從事，不¶
 當擾也。草木殊性，鳥獸類分。白鶴自白，鸕¶
-鶿自黑。我與彼異，無欲於世。如田家翁生¶
+[(磁-石)*鳥]自黑。我與彼異，無欲於世。如田家翁生¶
 習山藪，與之好衣，為無益也。天下有樹，其¶
 名反戾，主自種之，不得食實。他人竊取，果¶
 則為出。今王如是，善安國者，而見驅逐；佞¶
